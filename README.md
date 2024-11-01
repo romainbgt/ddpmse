@@ -1,2 +1,1 @@
-# ddpmse
-Denoising Diffusion Probabilistic Model for Speech Enhancement
+# DDPMSE: Denoising Diffusion Probabilistic Model for Speech Enhancement
